@@ -1,4 +1,4 @@
-# BoomBikes Upgrad Assignment - Linear Regression
+## BoomBikes Upgrad Assignment - Linear Regression
 
 ## Problem Statement 
 
@@ -16,7 +16,7 @@ Which variables are significant in predicting the demand for shared bikes. How w
 
 The folder contains 
 
-1. Jupiter notebook (ipynb file) explaining the case study
+1. Case Study - Bikes Sharing Assignment - Linear Regression.ipynb [Jupiter notebook (ipynb file) explaining the case study]
 2. Subjective Question.pdf 
 3. Dataset csv
 4. Datadictionary
